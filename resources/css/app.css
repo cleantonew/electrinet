@@ -1,0 +1,10 @@
+@import "variables";
+
+/*font awesome*/
+@import "node_modules\font-awesome\scss\font-awesome";
+
+/*bulma*/
+@import "node_modules\bulma\bulma";
+
+/*bulma vue modules*/
+@import "node_modules\buefy\src\scss\buefy";
